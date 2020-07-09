@@ -72,6 +72,7 @@ body{
   width: 60%;
   transform: rotate(25deg);
   position: absolute;
+  right: 30%;
 }
 
 /* Feature-Box Section */
