@@ -41,6 +41,17 @@ body{
   padding: 3% 15% 7%;
 }
 
+@media (max-width:1028px) {
+  #title{
+    text-align: center;
+  }
+
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
+}
+
 /* Navigation Bar */
 
 .navbar{
